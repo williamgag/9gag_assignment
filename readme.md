@@ -1,3 +1,5 @@
+## Documentation
+
 I use scala and spark to do the assignment, spark is running in local single JVM mode, but can be easily configured to work in distributed/cluster mode with minimal to zero code change on the data transformation code.
 
 You will need `sbt` to compile and build the project, if you don't already have it installed in your system, find the installation guide here: http://www.scala-sbt.org/0.13/docs/Setup.html
